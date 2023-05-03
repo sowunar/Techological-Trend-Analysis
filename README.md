@@ -5,7 +5,7 @@ Analysis Dashboard Link: https://eu-de.dataplatform.cloud.ibm.com/dashboards/688
 
 Project Presentaion Link: [Capstone Data Analysis Project.pdf](https://github.com/wunar41/Data_Analysis/files/11357799/Capstone.Data.Analysis.Project.pdf)
 
-In this project, assuming myself as the Data Analyst for the company, I undertook the tasks of collecting data from multiple sources, performing exploratory data analysis, data wrangling and preparation, statistical analysis and mining the data, creating charts and plots to visualize data, and building an interactive dashboard using IBM Cognos Analytics.
+In this project as a Data Analyst, I undertook the tasks of collecting data from multiple sources, performing exploratory data analysis, data wrangling and preparation, statistical analysis and mining the data, creating charts and plots to visualize data, and building an interactive dashboard using IBM Cognos Analytics.
 
 Key requirements of analysis are identifying skills requirements for future, top programming languages, database skills in demand and IDEs in demand
 
